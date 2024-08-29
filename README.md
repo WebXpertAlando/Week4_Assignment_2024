@@ -5,6 +5,7 @@
 A palindromes are words, phrases, numbes, or other sequence of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
 
 *2). Explain the concept of list comprehension in Python with at least three examples.*
+
 List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list. Without list comprehension you will have to write a for statement with a conditional test inside.
 
 **Example 1**
