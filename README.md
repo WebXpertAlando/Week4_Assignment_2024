@@ -1,10 +1,10 @@
 # Assignment_Week4_2024
 ##  Questions
-1). Write a Python program to check whether a string is a palindrome or not using a stack.
+*1). Write a Python program to check whether a string is a palindrome or not using a stack.*
 
 A palindromes are words, phrases, numbes, or other sequence of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
 
-2). Explain the concept of list comprehension in Python with at least three examples.
+*2). Explain the concept of list comprehension in Python with at least three examples.*
 
 Python lists are used to store elements of text inside a square bracket separated by commas. List contains characteristics namely;
 - Lists are mutable and dynamic;
